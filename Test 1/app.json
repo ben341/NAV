@@ -1,0 +1,23 @@
+{
+  "id": "6b8b0c9b-38a6-4674-ba9d-25f40a0fa286",
+  "name": "Test 1",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}

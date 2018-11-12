@@ -1,0 +1,23 @@
+{
+  "id": "e401a7e5-721a-4ec7-9e3f-07d694e4d1fa",
+  "name": "Test 2",
+  "publisher": "Ben Carroll",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
